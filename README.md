@@ -16,10 +16,12 @@ JSX lets you write code that looks like HTML inside your JavaScript, making UI c
 
 Instead of using document.createElement(), you can just write code that looks like HTML but works like JavaScript.
 
-Example:
+```jsx
+// Example:
 function Welcome() {
   return <h1>Hello, welcome to my site!</h1>;
 }
+```
 
 Behind the scenes, it's converted to JavaScript that creates that <h1> element.
 
