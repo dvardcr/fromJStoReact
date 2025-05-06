@@ -23,7 +23,7 @@ function Welcome() {
 }
 ```
 
-Behind the scenes, it's converted to JavaScript that creates that <h1> element.
+Behind the scenes, it's converted to JavaScript that creates that &lt;h1&gt; element.
 
 What is the Babel interpreter?
 Babel is a JavaScript compiler that lets you write modern JavaScript (like JSX or ES6) and converts it into older JavaScript that all browsers can understand. In other words, Babel translates new JavaScript code into older code so it works everywhere.
